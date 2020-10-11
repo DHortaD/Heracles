@@ -1,4 +1,4 @@
-# IGS-structure
+# IGS
 
 Repository containing all the required scripts to obtain the results from the paper titled "Evidence from APOGEE for the presence a major building block of the Milky Way halo buried in the Galactic bulge" (Horta et al 2020) https://ui.adsabs.harvard.edu/abs/2020arXiv200710374H/abstract.
 
